@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T12:56:34.982Z" agent="5.0 (Windows)" etag="DiO8hiKOBdiAioSkYCaB" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T13:04:11.268Z" agent="5.0 (Windows)" etag="w1WfZEgupS-GU25xT-Hz" version="20.8.23" type="github">
   <diagram name="Seite-1" id="O6X6owak-KxjnDkndxaL">
-    <mxGraphModel dx="1320" dy="1923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1320" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pdj2C71loEkQCJ0KdB5L-4" value="&lt;b&gt;Kunde&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-40" width="200" height="40" as="geometry" />
+          <mxGeometry x="320" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-4" target="pdj2C71loEkQCJ0KdB5L-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="410" as="sourcePoint" />
-            <mxPoint x="460" y="160" as="targetPoint" />
+            <mxPoint x="450" y="490" as="sourcePoint" />
+            <mxPoint x="460" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-6" target="pdj2C71loEkQCJ0KdB5L-41">
@@ -22,7 +22,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-6" target="pdj2C71loEkQCJ0KdB5L-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-48" value="Nicht für Ltd. entschieden" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="pdj2C71loEkQCJ0KdB5L-46">
           <mxGeometry x="-0.1111" y="3" relative="1" as="geometry">
@@ -30,56 +32,56 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-6" value="&lt;div&gt;&lt;b&gt;Videokonferenz halten&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;b&gt;- &lt;/b&gt;Firma vorstellen&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Vorteile Ltd.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Nachteile Ltd.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Steuersparkonzepte&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Büroservice&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Kosten &amp;amp; Vertragslaufzeiten&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Ablauf Ltd.-Eröffnung&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Provisionsprogramm&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="40" width="200" height="160" as="geometry" />
+          <mxGeometry x="320" y="120" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-12" value="Weiter Werben: Ltd. und Bitcoin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="160" width="200" height="40" as="geometry" />
+          <mxGeometry x="600" y="240" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-31" target="pdj2C71loEkQCJ0KdB5L-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-31" value="&lt;b&gt;Kunden-Vertrag erstellen&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="520" width="160" height="40" as="geometry" />
+          <mxGeometry x="340" y="600" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-41" target="pdj2C71loEkQCJ0KdB5L-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-41" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;E-Mail an Kunden verschicken&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;Kundendaten erfragen&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Vorname&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Nachname&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Adresse&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Handy-Nr. (WhatsApp / Telegram)&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;Kunden-Dokumente anfordern:&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Scan/Foto Personalausweis&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Wohnungsnachweis&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;(Stromrechnung etc.)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="200" height="200" as="geometry" />
+          <mxGeometry x="320" y="360" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-52" value="&lt;div&gt;&lt;b&gt;Kundendaten an Boffix&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;weitergeben&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;Aufgaben Boffix&lt;br&gt;&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Brifekastenschild&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Ltd. gründen&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- UStId. anfordern&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="660" width="160" height="120" as="geometry" />
+          <mxGeometry x="600" y="740" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-54" value="&lt;div&gt;&lt;b&gt;Mit Kunden &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Konto eröffnen&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="820" width="160" height="40" as="geometry" />
+          <mxGeometry x="600" y="900" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-57" value="&lt;div&gt;&lt;b&gt;Kunde in unserer&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Datenbank anlegen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;für Rechnungserstellung&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="680" width="160" height="80" as="geometry" />
+          <mxGeometry x="80" y="760" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-58" value="&lt;b&gt;Kunde in QuickBooks anlegen, ggf. mit Konto verknüpfen&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="800" width="160" height="60" as="geometry" />
+          <mxGeometry x="80" y="880" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-65" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#FF0000;endWidth=42;endSize=8.33;width=26;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="840" as="sourcePoint" />
-            <mxPoint x="420" y="950" as="targetPoint" />
+            <mxPoint x="420" y="920" as="sourcePoint" />
+            <mxPoint x="420" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-67" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;Rechnungen per Telegram / WhatsApp &lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;einsammeln und mit Quickbooks abgleichen&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="240" y="960" width="360" height="80" as="geometry" />
+          <mxGeometry x="240" y="1040" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-68" target="pdj2C71loEkQCJ0KdB5L-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-68" value="&lt;b&gt;Vertag Kunden zuschicken&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="600" width="160" height="40" as="geometry" />
+          <mxGeometry x="340" y="680" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FF8000;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-73" target="pdj2C71loEkQCJ0KdB5L-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FF8000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-73" target="pdj2C71loEkQCJ0KdB5L-58">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="840" as="targetPoint" />
+            <mxPoint x="420" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FF8000;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-73" target="pdj2C71loEkQCJ0KdB5L-52">
@@ -87,11 +89,26 @@
         </mxCell>
         <mxCell id="pdj2C71loEkQCJ0KdB5L-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#FF8000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pdj2C71loEkQCJ0KdB5L-73" target="pdj2C71loEkQCJ0KdB5L-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="840" as="targetPoint" />
+            <mxPoint x="420" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pdj2C71loEkQCJ0KdB5L-73" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Wenn Kundenvertrag unterschrieben zurück gekommen ist&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF8000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="680" width="160" height="80" as="geometry" />
+        <mxCell id="pdj2C71loEkQCJ0KdB5L-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Wenn Kundenvertrag unterschrieben zurück gekommen ist&lt;br style=&quot;&quot;&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pdj2C71loEkQCJ0KdB5L-84" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot; color=&quot;#000000&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ToDo&lt;/font&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdj2C71loEkQCJ0KdB5L-85" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Presentation erstellen&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pdj2C71loEkQCJ0KdB5L-86" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Kundendaten einsammeln&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Wie ???&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Oder E-Mail erstellen&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pdj2C71loEkQCJ0KdB5L-87" value="In Word ???" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pdj2C71loEkQCJ0KdB5L-88" value="&lt;div&gt;Digital oder Papier&lt;/div&gt;&lt;div&gt;Mail oder Post&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
