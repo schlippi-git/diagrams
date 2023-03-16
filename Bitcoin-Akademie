@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-03-16T19:14:04.679Z" agent="5.0 (Windows)" version="21.0.6" etag="DmCBE8eTgy3-z5Z1SwlF" type="github"><diagram name="Seite-1" id="HFhOmaB7Hcej_U1iInA6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-16T19:48:10.259Z" agent="5.0 (Windows)" etag="yyaKXzAasCEAIBWiDoNq" version="21.0.6" type="github">
+  <diagram name="Seite-1" id="HFhOmaB7Hcej_U1iInA6">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WJfwdRlRWydt2mXEyVxb-1" value="Beratung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJfwdRlRWydt2mXEyVxb-2" value="Trainings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJfwdRlRWydt2mXEyVxb-3" value="Kalender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJfwdRlRWydt2mXEyVxb-4" value="LogIn" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJfwdRlRWydt2mXEyVxb-5" value="Kontakt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WJfwdRlRWydt2mXEyVxb-6" value="&lt;div align=&quot;left&quot;&gt;- Einstieg&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- ggf. Ökonomie&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- ggf. handhabung&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Bitcoin Anonym&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- allg. Anonym im Internet&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Bitcoin vererben&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Krypto-Trading&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="160" width="160" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
