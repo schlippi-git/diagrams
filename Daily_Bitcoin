@@ -1,9 +1,395 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T17:23:44.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" version="21.1.0" etag="DWglbmWTPJyVifxsUkr6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T19:12:55.488Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="riWbUdkuoj4xmhQ2pitH" version="21.1.0" type="github">
   <diagram name="Seite-1" id="VUaGUGhEGKdh8HBE7Bue">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-10" target="MPKyPWrrkVZ8E1UcmJUg-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-10" value="BTC kaufen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-11" target="MPKyPWrrkVZ8E1UcmJUg-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-11" value="&lt;div&gt;97% BTC auf &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kunden&lt;/b&gt;-Wallet überweisen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-12" value="&lt;div&gt;3% BTC auf &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Unser&lt;/b&gt;-Wallet überweisen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-19" target="MPKyPWrrkVZ8E1UcmJUg-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-41" value="daily" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MPKyPWrrkVZ8E1UcmJUg-34">
+          <mxGeometry x="-0.5444" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-19" target="MPKyPWrrkVZ8E1UcmJUg-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-42" value="plan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MPKyPWrrkVZ8E1UcmJUg-35">
+          <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
+            <mxPoint x="-15" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-19" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-20" target="MPKyPWrrkVZ8E1UcmJUg-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-20" value="&lt;div&gt;aktuelle Kraken&lt;/div&gt;&lt;div&gt;EUR-Balance abrufen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-24" value="Telegram Kunde" style="swimlane;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="40" width="160" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-13" value="heutige Kaufmenge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-24">
+          <mxGeometry x="20" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-14" value="BTC-Menge auf Kraken" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-24">
+          <mxGeometry x="20" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-15" value="&lt;div&gt;gesamte &lt;br&gt;&lt;/div&gt;&lt;div&gt;BTC-Kaufmenge&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-24">
+          <mxGeometry x="20" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-16" value="heutiger Kaufpreis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-24">
+          <mxGeometry x="20" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-17" value="durchschnittlicher Kaufpreis" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-24">
+          <mxGeometry x="20" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-18" value="momentaner Gesamtgewinn" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-24">
+          <mxGeometry x="20" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-29" value="Konto leer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-24">
+          <mxGeometry x="20" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-25" value="benötigte Infos&lt;br&gt;vom Kunden" style="swimlane;whiteSpace=wrap;html=1;startSize=40;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-1" value="api_key / api_sec" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-25">
+          <mxGeometry x="20" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-2" value="telegram_url" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-25">
+          <mxGeometry x="20" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-3" value="wallet_name" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-25">
+          <mxGeometry x="20" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-4" value="daily or plan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-25">
+          <mxGeometry x="20" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-5" value="&lt;div&gt;when plan then daily_amount&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-25">
+          <mxGeometry x="20" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-26" target="MPKyPWrrkVZ8E1UcmJUg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-26" value="&lt;div&gt;heute Krakenbalance&lt;/div&gt;&lt;div&gt;&lt;b&gt;größer &lt;/b&gt;daily_amount&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="855" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-27" target="MPKyPWrrkVZ8E1UcmJUg-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-27" value="heute Krakenbalance kleiner möglicher Kaufmenge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="855" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-28" target="MPKyPWrrkVZ8E1UcmJUg-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-28" value="heute Krakenbalance &lt;b&gt;kleiner &lt;/b&gt;daily_amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="855" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-4" target="MPKyPWrrkVZ8E1UcmJUg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-33" target="MPKyPWrrkVZ8E1UcmJUg-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-33" value="&lt;div&gt;aktuelle Kraken &lt;br&gt;&lt;/div&gt;&lt;div&gt;EUR-Balance abrufen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-38" target="MPKyPWrrkVZ8E1UcmJUg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-38" target="MPKyPWrrkVZ8E1UcmJUg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-38" value="3% von Walltet-Transferausrechnen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-40" target="MPKyPWrrkVZ8E1UcmJUg-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-40" value="Kraken-Balance kleiner letzter Einzahlung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-43" target="MPKyPWrrkVZ8E1UcmJUg-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-43" target="MPKyPWrrkVZ8E1UcmJUg-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-43" target="MPKyPWrrkVZ8E1UcmJUg-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-43" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-50" target="MPKyPWrrkVZ8E1UcmJUg-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-50" target="MPKyPWrrkVZ8E1UcmJUg-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-50" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="545" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-53" target="MPKyPWrrkVZ8E1UcmJUg-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-53" value="Kraken-Balance größer restlicher EUR-Balance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="640" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-55" target="MPKyPWrrkVZ8E1UcmJUg-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-55" target="MPKyPWrrkVZ8E1UcmJUg-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-55" value="&lt;div&gt;neuer Gesamtbetrag = restliche EUR-Balance + &lt;br&gt;&lt;/div&gt;&lt;div&gt;neue Einzahlung&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-58" value="Datenbank" style="swimlane;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="980" y="540" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-36" value="tägliche Kaufmenge" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-58">
+          <mxGeometry x="20" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-37" value="Höhe letzte Einzahlung" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-58">
+          <mxGeometry x="20" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-57" value="restliche EUR-Balance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="MPKyPWrrkVZ8E1UcmJUg-58">
+          <mxGeometry x="20" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-59" target="MPKyPWrrkVZ8E1UcmJUg-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-59" value="in Datenbank schreiben" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-64" target="MPKyPWrrkVZ8E1UcmJUg-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="790" />
+              <mxPoint x="950" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-64" value="tägliche EUR-Kaufmenge = Gesamtbetrag / Tage im Monat" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="760" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-57" target="MPKyPWrrkVZ8E1UcmJUg-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-72" target="MPKyPWrrkVZ8E1UcmJUg-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-72" value="&lt;div&gt;BTC kaufen&lt;/div&gt;&lt;div&gt;mit Restbetrag&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-77" target="MPKyPWrrkVZ8E1UcmJUg-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-77" value="mit Wallet-Transfergrenze vergleichen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="1080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-80" target="MPKyPWrrkVZ8E1UcmJUg-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-88" value="größer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MPKyPWrrkVZ8E1UcmJUg-84">
+          <mxGeometry x="0.1433" y="-1" relative="1" as="geometry">
+            <mxPoint x="-14" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-80" target="MPKyPWrrkVZ8E1UcmJUg-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-100" value="kleiner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MPKyPWrrkVZ8E1UcmJUg-99">
+          <mxGeometry x="-0.3231" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-80" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="1160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-85" target="MPKyPWrrkVZ8E1UcmJUg-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-85" value="&lt;div&gt;Transfergebüren Blockchain abfragen / berechnen&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1340" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-86" target="MPKyPWrrkVZ8E1UcmJUg-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-86" value="BTC-Überweisungsmenge berechnen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-87" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1460" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-89" target="MPKyPWrrkVZ8E1UcmJUg-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-89" value="neue BTC-Menge berechen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-91" target="MPKyPWrrkVZ8E1UcmJUg-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-91" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="980" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-92" target="MPKyPWrrkVZ8E1UcmJUg-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-92" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="980" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-97" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-101" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-108" target="MPKyPWrrkVZ8E1UcmJUg-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-108" value="BTC kaufen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-110" target="MPKyPWrrkVZ8E1UcmJUg-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-110" value="&lt;div&gt;97% BTC auf &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kunden&lt;/b&gt;-Wallet überweisen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-111" value="&lt;div&gt;3% BTC auf &lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Unser&lt;/b&gt;-Wallet überweisen&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="1080" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-113" target="MPKyPWrrkVZ8E1UcmJUg-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-113" value="&lt;div&gt;heute Krakenbalance&lt;/div&gt;&lt;div&gt;&lt;b&gt;größer &lt;/b&gt;daily_amount&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="655" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-115" target="MPKyPWrrkVZ8E1UcmJUg-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-115" value="heute Krakenbalance kleiner möglicher Kaufmenge" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="655" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-117" target="MPKyPWrrkVZ8E1UcmJUg-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-117" value="heute Krakenbalance &lt;b&gt;kleiner &lt;/b&gt;daily_amount" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="655" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-120" target="MPKyPWrrkVZ8E1UcmJUg-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-120" target="MPKyPWrrkVZ8E1UcmJUg-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-120" value="3% von Walltet-Transferausrechnen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-124" target="MPKyPWrrkVZ8E1UcmJUg-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-124" target="MPKyPWrrkVZ8E1UcmJUg-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-124" target="MPKyPWrrkVZ8E1UcmJUg-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-124" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-126" target="MPKyPWrrkVZ8E1UcmJUg-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-126" value="&lt;div&gt;BTC kaufen&lt;/div&gt;&lt;div&gt;mit Restbetrag&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-128" target="MPKyPWrrkVZ8E1UcmJUg-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-128" value="mit Wallet-Transfergrenze vergleichen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="880" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-133" target="MPKyPWrrkVZ8E1UcmJUg-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-130" value="größer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MPKyPWrrkVZ8E1UcmJUg-129">
+          <mxGeometry x="0.1433" y="-1" relative="1" as="geometry">
+            <mxPoint x="-17" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-133" target="MPKyPWrrkVZ8E1UcmJUg-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-132" value="kleiner" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MPKyPWrrkVZ8E1UcmJUg-131">
+          <mxGeometry x="-0.3231" y="1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-133" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-135" target="MPKyPWrrkVZ8E1UcmJUg-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-135" value="&lt;div&gt;Transfergebüren Blockchain abfragen / berechnen&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-137" target="MPKyPWrrkVZ8E1UcmJUg-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-137" value="BTC-Überweisungsmenge berechnen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-138" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1260" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-140" target="MPKyPWrrkVZ8E1UcmJUg-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-140" value="neue BTC-Menge berechen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-142" target="MPKyPWrrkVZ8E1UcmJUg-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-142" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="780" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MPKyPWrrkVZ8E1UcmJUg-144" target="MPKyPWrrkVZ8E1UcmJUg-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-144" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="780" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-145" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="1040" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MPKyPWrrkVZ8E1UcmJUg-146" value="Telegram Nachricht" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
