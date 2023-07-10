@@ -1,9 +1,127 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T16:35:22.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.1.7" etag="eCOvbNSC_GRvfpwHTp2S" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T16:56:15.443Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="7M1-rydBgDRo5DUXQPn6" version="21.1.7" type="github">
   <diagram name="Seite-1" id="nnoa5IrcqApOvKp3yJF2">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-1" value="Pufferspeicher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="80" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-2" value="Pumpe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-3" target="n2CGfO6AdRU1Mg82nGfe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-3" value="Mining" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-2" target="n2CGfO6AdRU1Mg82nGfe-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=-0.025;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="n2CGfO6AdRU1Mg82nGfe-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="402" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-9" value="Tempfühler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-1" target="n2CGfO6AdRU1Mg82nGfe-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="40" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="600" />
+              <mxPoint x="110" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-14" target="n2CGfO6AdRU1Mg82nGfe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-14" value="Pumpe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="45" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-15" target="n2CGfO6AdRU1Mg82nGfe-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-15" value="Mining" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-17" target="n2CGfO6AdRU1Mg82nGfe-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-17" value="Pufferspeicher" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" width="80" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-19" target="n2CGfO6AdRU1Mg82nGfe-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-19" value="Tempfühler V" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="47.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-22" value="Tempfühler N" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-25" target="n2CGfO6AdRU1Mg82nGfe-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-25" value="Kupplung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="47.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-28" value="Kühler&lt;br&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;Lüfter&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-29" target="n2CGfO6AdRU1Mg82nGfe-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-29" value="&lt;div&gt;Magnetventil&lt;/div&gt;definitiv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="35" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-32" value="Kupplung" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-28" target="n2CGfO6AdRU1Mg82nGfe-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="200" />
+              <mxPoint x="120" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-32" target="n2CGfO6AdRU1Mg82nGfe-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-22" target="n2CGfO6AdRU1Mg82nGfe-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2CGfO6AdRU1Mg82nGfe-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n2CGfO6AdRU1Mg82nGfe-25" target="n2CGfO6AdRU1Mg82nGfe-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
