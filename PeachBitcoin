@@ -1,9 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2024-06-15T21:22:35.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.4.4" etag="bmCjPOO45vgRE1wOGSrx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T21:40:34.740Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="mD-owMUN3Gu4OpXc0du6" version="24.4.4" type="github">
   <diagram name="Seite-1" id="aiKpbB06IEpTOpzQKahP">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CeSFOFjZAWs_6DLfdo0z-1" target="CeSFOFjZAWs_6DLfdo0z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-1" value="KRAKEN&lt;br&gt;&lt;div&gt;BTC an Peach schicken&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeSFOFjZAWs_6DLfdo0z-2" target="CeSFOFjZAWs_6DLfdo0z-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-2" value="PEACH&lt;br&gt;Transaktion erstellen" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeSFOFjZAWs_6DLfdo0z-8" target="CeSFOFjZAWs_6DLfdo0z-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-8" value="&lt;div&gt;PEACH&lt;/div&gt;Geld an ING" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeSFOFjZAWs_6DLfdo0z-12" target="CeSFOFjZAWs_6DLfdo0z-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="241" y="350" />
+              <mxPoint x="241" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-12" value="ING&lt;br&gt;Geld an Kraken" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeSFOFjZAWs_6DLfdo0z-20" target="CeSFOFjZAWs_6DLfdo0z-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-20" value="RELAI&lt;br&gt;&lt;div&gt;BTC an Peach schicken&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CeSFOFjZAWs_6DLfdo0z-21" target="CeSFOFjZAWs_6DLfdo0z-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-21" value="PEACH&lt;br&gt;Transaktion erstellen" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CeSFOFjZAWs_6DLfdo0z-22" target="CeSFOFjZAWs_6DLfdo0z-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="641" y="270" />
+              <mxPoint x="641" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CeSFOFjZAWs_6DLfdo0z-22" value="&lt;div&gt;PEACH&lt;/div&gt;Geld an RELAI" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
