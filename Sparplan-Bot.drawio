@@ -1,9 +1,181 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="28.0.4">
   <diagram name="Seite-1" id="1O0aCxHVziCLuvjsiWau">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-1" target="jj22TwtniHC2MtT9gg5F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-1" value="&lt;div&gt;LOGO&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Herzlich Wlkommen beim Sparplan-Bot der Kryptoworld GmbH.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vorstellungsvideo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[STARTEN]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-4" target="jj22TwtniHC2MtT9gg5F-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-8" value="[Weiter]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jj22TwtniHC2MtT9gg5F-7">
+          <mxGeometry x="-0.05" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-4" target="jj22TwtniHC2MtT9gg5F-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-4" target="jj22TwtniHC2MtT9gg5F-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-4" value="&lt;div&gt;[Erklärvideo: Funktionsweise des Bots]&lt;/div&gt;&lt;div&gt;[Erklärvideo: Sicherheit]&lt;/div&gt;&lt;div&gt;[Weiter]&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-6" target="jj22TwtniHC2MtT9gg5F-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-11" value="[Kraken]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jj22TwtniHC2MtT9gg5F-10">
+          <mxGeometry x="-0.1" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-6" value="&lt;div&gt;Börsenwahl&lt;/div&gt;&lt;div&gt;[Kraken] [Coinbase] [Binance]&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-9" target="jj22TwtniHC2MtT9gg5F-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jj22TwtniHC2MtT9gg5F-13">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-15" value="&lt;div&gt;[Weiter ohne Erklärvideo]&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jj22TwtniHC2MtT9gg5F-13">
+          <mxGeometry x="-0.125" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-9" target="jj22TwtniHC2MtT9gg5F-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-44" value="[Erklärvideo]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jj22TwtniHC2MtT9gg5F-41">
+          <mxGeometry x="-0.125" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-9" value="&lt;div&gt;[Erklärvideo: Api-Keys KRAKEN]&lt;/div&gt;&lt;div&gt;[Weiter ohne Erklärvideo]&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="660" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-12" target="jj22TwtniHC2MtT9gg5F-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-12" value="&lt;div&gt;Eingabe&lt;/div&gt;&lt;div&gt;(Api-Key)&lt;/div&gt;&lt;div&gt;(Api-Sec)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="830" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-16" target="jj22TwtniHC2MtT9gg5F-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-23" value="[JA]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jj22TwtniHC2MtT9gg5F-22">
+          <mxGeometry x="-0.1429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-16" target="jj22TwtniHC2MtT9gg5F-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-16" value="&lt;div&gt;Möchten Sie eine automatisierte&lt;/div&gt;&lt;div&gt;Überweisung&amp;nbsp;auf Ihre Wallet einrichten?&lt;/div&gt;&lt;div&gt;[Erklrävideo] [Ja] [Nein]&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1100" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-18" target="jj22TwtniHC2MtT9gg5F-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-18" value="&lt;div&gt;Wie hoch soll der tägliche Kaufbetrag sein?&lt;br&gt;Beachte: Mindeskaufmenge bei Bitcoin = 0,00005 BTC = BERECHNEN in EUR&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="920" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-21" target="jj22TwtniHC2MtT9gg5F-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-21" value="Wallet-Name aus Kraken" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1230" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-24" target="jj22TwtniHC2MtT9gg5F-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-24" value="Ab welchem Betrag auf der Börse sollen die Bitcoins an die Wallet transferiert werden?" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1350" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-28" value="&lt;div&gt;Ende der Einrichtung&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-32" value="&lt;div&gt;Erklärvideo:&amp;nbsp;&lt;/div&gt;&lt;div&gt;Funktionsweise&lt;/div&gt;&lt;div&gt;des Bots&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-36" value="&lt;div&gt;Erklärvideo:&lt;/div&gt;&lt;div&gt;Sicherheit&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-36" target="jj22TwtniHC2MtT9gg5F-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="400" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-32" target="jj22TwtniHC2MtT9gg5F-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="sourcePoint" />
+            <mxPoint x="350" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-40" value="&lt;div&gt;Erklärvideo:&lt;/div&gt;&lt;div&gt;Api-Keys KRAKEN&lt;/div&gt;&lt;div&gt;[Weiter]&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-40" target="jj22TwtniHC2MtT9gg5F-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="800" as="sourcePoint" />
+            <mxPoint x="440" y="750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-43" value="[Weiter]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jj22TwtniHC2MtT9gg5F-42">
+          <mxGeometry x="-0.4571" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-45" target="jj22TwtniHC2MtT9gg5F-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-45" value="Eingabe&lt;br&gt;&lt;div&gt;(Eurobetrag)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1000" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-48" value="Erklärvideo" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-50" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-48" target="jj22TwtniHC2MtT9gg5F-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1190" as="sourcePoint" />
+            <mxPoint x="410" y="1140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-16" target="jj22TwtniHC2MtT9gg5F-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1190" as="sourcePoint" />
+            <mxPoint x="680" y="1300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jj22TwtniHC2MtT9gg5F-52" value="[Nein]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jj22TwtniHC2MtT9gg5F-51">
+          <mxGeometry x="-0.328" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
