@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="28.0.4">
   <diagram name="Seite-1" id="1O0aCxHVziCLuvjsiWau">
-    <mxGraphModel dx="3080" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2842" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,7 +200,7 @@
             <mxPoint x="-2" y="-55" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Text:&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Unterstütze Exchanges&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Kraken / Coinbase / Binance&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Was kostet Bot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Der Bot kostet 2,5% der Transaktionen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Warum täglich Bitcoin kaufen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Begründung einfügen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mindestkaufmenge&lt;/b&gt;&lt;/div&gt;&lt;div&gt;5€ täglich (mit Begründung)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Erklärvideo: Funktion] [Erklärvideo: Sicherheit] [Weiter]&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jj22TwtniHC2MtT9gg5F-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Text:&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Unterstütze Exchanges&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Kraken / Coinbase / Binance&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Was kostet Bot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Der Bot kostet 2,5% Netto der Transaktionen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Warum täglich Bitcoin kaufen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Begründung einfügen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mindestkaufmenge&lt;/b&gt;&lt;/div&gt;&lt;div&gt;5€ täglich (mit Begründung)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[Erklärvideo: Funktion] [Erklärvideo: Sicherheit] [Weiter]&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-640" y="160" width="320" height="240" as="geometry" />
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-59" target="jj22TwtniHC2MtT9gg5F-58">
@@ -226,7 +226,7 @@
             <mxPoint x="-400" y="330" as="sourcePoint" />
             <mxPoint x="-350" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-60" y="200" />
+              <mxPoint x="-60" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
