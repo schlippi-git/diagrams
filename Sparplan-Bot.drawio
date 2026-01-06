@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="Seite-1" id="1O0aCxHVziCLuvjsiWau">
-    <mxGraphModel dx="4031" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3080" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,7 +200,7 @@
             <mxPoint x="-2" y="-55" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Text:&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Unterstütze Exchanges&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Kraken / Coinbase / Binance&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Was kostet Bot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Der Bot kostet 2,5% Netto der Transaktionen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Warum täglich Bitcoin kaufen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Begründung einfügen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mindestkaufmenge&lt;/b&gt;&lt;/div&gt;&lt;div&gt;5€ täglich (mit Begründung)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;[Erklärvideo: Funktion]&amp;nbsp;&lt;/b&gt;&lt;b&gt;[Erklärvideo: Sicherheit] [Weiter]&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="jj22TwtniHC2MtT9gg5F-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Text:&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Unterstütze Exchanges&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Kraken / Coinbase / Binance&lt;/div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Was kostet Bot&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;Der Bot kostet 2,5% Netto der Transaktionen.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Warum täglich Bitcoin kaufen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;Begründung einfügen&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Mindestkaufmenge&lt;/b&gt;&lt;/div&gt;&lt;div&gt;5€ täglich &lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;(mit Begründung)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;[Erklärvideo: Funktion]&amp;nbsp;&lt;/b&gt;&lt;b&gt;[Erklärvideo: Sicherheit] [Weiter]&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="240" width="320" x="-640" y="160" as="geometry" />
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-66" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jj22TwtniHC2MtT9gg5F-58" value="">
@@ -276,7 +276,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Alle Daten Nochmal Anzeigen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b&gt;[Daten aktualisieren] [Daten übernehmen]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="jj22TwtniHC2MtT9gg5F-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Alle Daten Nochmal anzeigen zu prüfen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b&gt;[Daten aktualisieren] [Daten übernehmen]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="120" width="320" x="-640" y="720" as="geometry" />
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-82" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-80" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-60" value="">
@@ -314,11 +314,13 @@
         <mxCell id="jj22TwtniHC2MtT9gg5F-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Erklärvideo: Api-Key BINANCE&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b&gt;[Weiter]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="180" x="-360" y="1000" as="geometry" />
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-96" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jj22TwtniHC2MtT9gg5F-95" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-96" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="X9ea8_CBoqbZrk9XYFZT-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-600" y="1240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Eingabe&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;(Api-Key)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;(Api-Sec)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;{Eingabe prüfen auf Richtigkeit}&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="320" x="-640" y="1120" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Eingabe&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;(Api-Key)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;(Api-Sec)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;[Erklärvideo anschauen] [Weiter]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="-640" y="1100" as="geometry" />
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-94" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-88" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="jj22TwtniHC2MtT9gg5F-92" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -329,29 +331,29 @@
         <mxCell id="jj22TwtniHC2MtT9gg5F-98" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jj22TwtniHC2MtT9gg5F-97" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-95" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Wie hoch soll der tägliche Kaufbetrag sein?&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="240" x="-600" y="1210" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-95" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Wie hoch soll der tägliche Kaufbetrag sein?&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;Erklärung Kaufbetrag mit Fear &amp;amp; Greed, etc.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="-600" y="1360" as="geometry" />
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-100" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-111" value="">
+        <mxCell id="jj22TwtniHC2MtT9gg5F-100" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-480" y="1440" as="targetPoint" />
+            <mxPoint x="-480" y="1650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-101" connectable="0" parent="jj22TwtniHC2MtT9gg5F-100" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Eingabe richtig" vertex="1">
           <mxGeometry relative="1" y="4" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-4" y="-35" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-97" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Eingabe:&lt;/div&gt;&lt;div&gt;Kaufbetrag in EUR&lt;/div&gt;&lt;div&gt;(Auf Richtigkeit und Mindestmenge prüfen)&lt;/div&gt;&lt;div&gt;(Nur Kommazahlen zulassen)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="90" width="240" x="-600" y="1300" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-97" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Kaufbetrag in EUR&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Eingabe Kaufbetrag)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="240" x="-600" y="1450" as="geometry" />
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bei Eingabe zu beachten" vertex="1">
-          <mxGeometry height="60" width="160" x="-280" y="1315" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-104" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Hinweise:&lt;div&gt;Bei Eingabe zu beachten&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="-280" y="1465" as="geometry" />
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-105" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-97" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-104" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="-410" y="1230" as="sourcePoint" />
-            <mxPoint x="-360" y="1180" as="targetPoint" />
+            <mxPoint x="-410" y="1380" as="sourcePoint" />
+            <mxPoint x="-360" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-106" connectable="0" parent="jj22TwtniHC2MtT9gg5F-105" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Falsche&lt;br&gt;Eingabe" vertex="1">
@@ -362,60 +364,68 @@
         <mxCell id="jj22TwtniHC2MtT9gg5F-107" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-104" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="jj22TwtniHC2MtT9gg5F-97" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="-200" y="1280" />
+              <mxPoint x="-200" y="1430" />
             </Array>
-            <mxPoint x="-410" y="1230" as="sourcePoint" />
-            <mxPoint x="-360" y="1180" as="targetPoint" />
+            <mxPoint x="-410" y="1380" as="sourcePoint" />
+            <mxPoint x="-360" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-108" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jj22TwtniHC2MtT9gg5F-113" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-108" edge="1" parent="1" source="X9ea8_CBoqbZrk9XYFZT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="jj22TwtniHC2MtT9gg5F-113" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-480" y="1720" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-109" connectable="0" parent="jj22TwtniHC2MtT9gg5F-108" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[JA]" vertex="1">
           <mxGeometry relative="1" x="-0.1429" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-110" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jj22TwtniHC2MtT9gg5F-117" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-110" edge="1" parent="1" source="X9ea8_CBoqbZrk9XYFZT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="jj22TwtniHC2MtT9gg5F-117" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-640" y="1680" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-111" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Möchten Sie eine automatisierte&lt;/div&gt;&lt;div&gt;Überweisung&amp;nbsp;auf Ihre Wallet einrichten?&lt;/div&gt;&lt;div&gt;[Erklrävideo] [Ja] [Nein]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="320" x="-630" y="1490" as="geometry" />
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-15" connectable="0" parent="jj22TwtniHC2MtT9gg5F-110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="(Erklärvideo)" vertex="1">
+          <mxGeometry relative="1" x="0.0036" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-112" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jj22TwtniHC2MtT9gg5F-115" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-113" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Wallet-Name aus Kraken&lt;/div&gt;&lt;div&gt;{Eingabe prüfen auf Richtigkeit}&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="240" x="-590" y="1620" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-113" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;(Eingabe Wallet-Name von Exchange)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="240" x="-600" y="1754" as="geometry" />
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-114" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="jj22TwtniHC2MtT9gg5F-116" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-115" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ab welchem Betrag auf der Börse sollen die Bitcoins an die Wallet transferiert werden?" vertex="1">
-          <mxGeometry height="60" width="240" x="-590" y="1710" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-115" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ab welchem Betrag auf der Börse sollen die Bitcoins an die Wallet transferiert werden?&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;Kurze Erklärung mit Beispiel z.B. alle 30 Tage&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;&lt;b&gt;(Eingabe)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="-600" y="1840" as="geometry" />
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-116" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Ende der Einrichtung&lt;/div&gt;" vertex="1">
-          <mxGeometry height="120" width="120" x="-530" y="1800" as="geometry" />
+          <mxGeometry height="120" width="120" x="-540" y="1950" as="geometry" />
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-117" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Erklärvideo Wallet-Transaktion" vertex="1">
-          <mxGeometry height="40" width="120" x="-790" y="1510" as="geometry" />
+          <mxGeometry height="40" width="120" x="-800" y="1635" as="geometry" />
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-118" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-117" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-111" value="">
+        <mxCell id="jj22TwtniHC2MtT9gg5F-118" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-117" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="X9ea8_CBoqbZrk9XYFZT-13" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="-730" y="1490" />
+              <mxPoint x="-740" y="1570" />
+              <mxPoint x="-480" y="1570" />
             </Array>
-            <mxPoint x="-510" y="1580" as="sourcePoint" />
-            <mxPoint x="-460" y="1530" as="targetPoint" />
+            <mxPoint x="-740" y="1610" as="sourcePoint" />
+            <mxPoint x="-480" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-119" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-111" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-116" value="">
+        <mxCell id="jj22TwtniHC2MtT9gg5F-119" edge="1" parent="1" source="X9ea8_CBoqbZrk9XYFZT-13" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-116" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
-              <mxPoint x="-310" y="1860" />
+              <mxPoint x="-320" y="1660" />
+              <mxPoint x="-320" y="2010" />
             </Array>
-            <mxPoint x="-510" y="1580" as="sourcePoint" />
-            <mxPoint x="-190" y="1690" as="targetPoint" />
+            <mxPoint x="-320" y="1680" as="sourcePoint" />
+            <mxPoint x="-200" y="1840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jj22TwtniHC2MtT9gg5F-120" connectable="0" parent="jj22TwtniHC2MtT9gg5F-119" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Nein]" vertex="1">
@@ -423,11 +433,83 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj22TwtniHC2MtT9gg5F-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Bestand Börse:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;BTC-Bestand gesamt&lt;/div&gt;&lt;div&gt;Euro-Bestand gesamt&lt;br&gt;BTC-Bestand von Bot (aus Datenbank) in BTC und EUR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Aktueller Fear &amp;amp; Greed Index&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kaufhistorie&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Als Tabelle möglich?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Änderungen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;[Private Daten ändern] [Api-Keys ändern] [Kaufbetrag ändern] [Wallet ändern] [Wallet-Betrag ändern] [Börse ändern]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Sonstiges&lt;/b&gt;&lt;/div&gt;&lt;div&gt;[Transaktion an Wallet] (Menübaum erstellen)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Erkärvideo&lt;/b&gt;&lt;/div&gt;&lt;div&gt;[Vorstellung] [Funktion] [Sicherheit] [Wallet]&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[AKTUALISIEREN]&lt;/div&gt;" vertex="1">
-          <mxGeometry height="360" width="480" x="-680" y="1970" as="geometry" />
+        <mxCell id="jj22TwtniHC2MtT9gg5F-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Bestand Börse:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;BTC-Bestand gesamt&lt;/div&gt;&lt;div&gt;Euro-Bestand gesamt&lt;br&gt;BTC-Bestand durch Bot in BTC und EUR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Aktueller Fear &amp;amp; Greed Index&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Die letzten 30 Tage&lt;/div&gt;&lt;div&gt;Das letzte Jahr&lt;/div&gt;&lt;div&gt;Gesamt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Kaufhistorie&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Änderungen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;[Private Daten ändern] [Api-Keys ändern] [Kaufbetrag ändern] [Wallet ändern] [Wallet-Betrag ändern] [Börse ändern]&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Sonstiges&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b&gt;[Transaktion an Wallet] (Menübaum erstellen)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Erkärvideos&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b&gt;[Vorstellung] [Funktion] [Sicherheit] [Wallet]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;[AKTUALISIEREN]&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="480" x="-720" y="2120" as="geometry" />
         </mxCell>
         <mxCell id="tCzClK7prSYlhsZyyW8Y-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Legende:&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;[Button]&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 153, 255));&quot;&gt;(Eingaben)&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 128, 0);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 255);&quot;&gt;Von uns zu erledigten&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="250" x="-1480" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Videos werden diese Woche gedreht. Platzhaltervideos zum testen nutzen" vertex="1">
+          <mxGeometry height="60" width="250" x="-1050" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eingaben in Datenbank speichern" vertex="1">
+          <mxGeometry height="60" width="250" x="-1050" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Buttons erstellen aber auskommentieren. Wir starten erstmal mit Kraken.&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22Eingaben%20in%20Datenbank%20speichern%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2260%22%20width%3D%22250%22%20x%3D%22-1050%22%20y%3D%22600%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="-1050" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Platzhaltervideo nutzen" vertex="1">
+          <mxGeometry height="60" width="150" x="-1050" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eingaben prüfen.&lt;div&gt;z.B. Kraken-Balance abrufen&amp;nbsp;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="-1050" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Verbindung mit Exchange erfolgreich" vertex="1">
+          <mxGeometry height="60" width="140" x="-550" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Verbindung mit Exchange NICHT erfolgreich. Eingaben prüfen" vertex="1">
+          <mxGeometry height="60" width="140" x="-390" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="X9ea8_CBoqbZrk9XYFZT-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="1210" />
+              <mxPoint x="-320" y="1210" />
+            </Array>
+            <mxPoint x="-480" y="1180" as="sourcePoint" />
+            <mxPoint x="-450" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-9" edge="1" parent="1" source="X9ea8_CBoqbZrk9XYFZT-7" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-92" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="1270" />
+              <mxPoint x="-120" y="1080" />
+            </Array>
+            <mxPoint x="-500" y="1260" as="sourcePoint" />
+            <mxPoint x="-450" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-10" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-92" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-88" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-870" y="1100" />
+              <mxPoint x="-860" y="970" />
+            </Array>
+            <mxPoint x="-680" y="1140" as="sourcePoint" />
+            <mxPoint x="-630" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-11" edge="1" parent="1" source="X9ea8_CBoqbZrk9XYFZT-6" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-95" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="1330" />
+            </Array>
+            <mxPoint x="-560" y="1340" as="sourcePoint" />
+            <mxPoint x="-510" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Auf Richtigkeit und Mindestmenge prüfen&lt;/div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Nur Kommazahlen zulassen, etc.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="250" x="-1050" y="1465" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Möchten Sie eine automatisierte&lt;/div&gt;&lt;div&gt;Überweisung&amp;nbsp;auf Ihre persönliche Wallet einrichten?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;ggf. Erklärvideo hier anzeigen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;[Erklrävideo] [Ja] [Nein]&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="240" x="-600" y="1600" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Eingaben prüfen, ob korrekt" vertex="1">
+          <mxGeometry height="60" width="250" x="-1050" y="1770" as="geometry" />
+        </mxCell>
+        <mxCell id="X9ea8_CBoqbZrk9XYFZT-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="BTC-Bestand Börse:&lt;div&gt;einfach von der Börse nehmen&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;BTC-Bestand durch Bot in BTC und EUR:&lt;/div&gt;&lt;div&gt;Aus den letzten Transaktionen aus der Datenbank berechnen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Performance:&lt;/div&gt;&lt;div&gt;BTC-Preisdurchschnitt aus Datenbank errechnen&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="250" x="-1050" y="2120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
