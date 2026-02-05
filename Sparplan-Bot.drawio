@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.7">
   <diagram name="Seite-1" id="1O0aCxHVziCLuvjsiWau">
-    <mxGraphModel dx="2637" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4259" dy="2507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -335,10 +335,10 @@
             <Array as="points">
               <mxPoint x="-200" y="280" />
               <mxPoint x="120" y="280" />
-              <mxPoint x="120" y="-80" />
+              <mxPoint x="120" y="-320" />
             </Array>
             <mxPoint y="480" as="sourcePoint" />
-            <mxPoint x="-480" y="-80" as="targetPoint" />
+            <mxPoint x="-480" y="-320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X9ea8_CBoqbZrk9XYFZT-22" edge="1" parent="1" source="jj22TwtniHC2MtT9gg5F-60" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="jj22TwtniHC2MtT9gg5F-80" value="">
@@ -521,6 +521,360 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint y="280" as="sourcePoint" />
             <mxPoint x="-250" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;Standard Sparplan Bot&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="-720" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;startSize=6;endSize=6;jumpSize=6;strokeWidth=10;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="3280" as="sourcePoint" />
+            <mxPoint x="240" y="-880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;Kinder Sparplan Bot&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="1040" y="-880" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;Krypto-Bot&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="480" x="2570" y="-920" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Risiko-Stufe&lt;div&gt;geringes Riskon&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="2680" y="-600" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Risiko-Stufe&lt;div&gt;mittleres Riskon&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="2840" y="-600" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Risiko-Stufe&lt;div&gt;hohes Riskon&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="3000" y="-600" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;startSize=6;endSize=6;jumpSize=6;strokeWidth=10;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="2240" y="3280" as="sourcePoint" />
+            <mxPoint x="2240" y="-880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;LOGO&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;p data-pm-slice=&quot;1 1 []&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Willkommen beim Krypto-World Sparplan-Bot&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;Dieser Sparplan-Bot automatisiert Ihren täglichen Bitcoin-Kauf vollständig und regelbasiert.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Täglich um &lt;/span&gt;&lt;strong style=&quot;background-color: transparent;&quot;&gt;20:00 Uhr&lt;/strong&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt; kauft der Bot Bitcoin über Ihr &lt;/span&gt;&lt;strong style=&quot;background-color: transparent;&quot;&gt;eigenes Exchange-Konto&lt;/strong&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt; (Anbindung per API-Key).&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p data-pm-slice=&quot;1 3 []&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Unterstützte Exchanges&lt;/strong&gt;&lt;/p&gt;&lt;ul data-spread=&quot;false&quot;&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Kraken&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Coinbase &lt;em&gt;(folgt)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Binance &lt;em&gt;(folgt)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;p data-pm-slice=&quot;1 3 []&quot;&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Mindestanforderungen:&lt;/strong&gt;&lt;/p&gt;&lt;ul data-spread=&quot;false&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Tägliche Mindestkaufmenge:&lt;/strong&gt; 5 €&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;p data-pm-slice=&quot;1 3 []&quot;&gt;&lt;strong&gt;Kosten &amp;amp; Abrechnung&lt;/strong&gt;&lt;/p&gt;&lt;ul data-spread=&quot;false&quot;&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;2,5 % Gebühr auf die jeweilige Kaufmenge&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;strong&gt;Monatliche Abrechnung per Rechnung&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;[STARTEN]&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="480" width="480" x="1040" y="-800" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;p data-pm-slice=&quot;1 3 []&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;So funktioniert der Bot&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Der Bot passt die tägliche Kaufmenge automatisch an die aktuelle Marktlage an. Grundlage ist der &lt;strong&gt;Fear &amp;amp; Greed Index von CoinMarketCap&lt;/strong&gt;.&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Kauflogik nach Fear &amp;amp; Greed Index&lt;/strong&gt;&lt;/p&gt;&lt;ul data-spread=&quot;false&quot;&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Extreme Greed (80–100):&lt;/strong&gt; 25 % der gewählten Kaufmenge&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Greed (60–79):&lt;/strong&gt; 50 % der gewählten Kaufmenge&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Neutral (40–60):&lt;/strong&gt; 100 % der gewählten Kaufmenge&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Fear (20–39):&lt;/strong&gt; 200 % der gewählten Kaufmenge&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Extreme Fear (0–19):&lt;/strong&gt; 400 % der gewählten Kaufmenge&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;strong&gt;Weitere Funktionen&lt;/strong&gt;&lt;/p&gt;&lt;ul data-spread=&quot;false&quot;&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;Automatische Auszahlung der Bitcoins auf Ihre &lt;strong&gt;Hardware-Wallets (z.B. Kinder), prozentual aufgeteilt ab&lt;/strong&gt;&amp;nbsp;einem definierten Betrag&lt;/font&gt;&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Einrichtung und Steuerung vollständig über &lt;strong&gt;Telegram&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b&gt;[Weiter]&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="400" width="480" x="1040" y="-240" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;p data-start=&quot;115&quot; data-end=&quot;158&quot; style=&quot;text-align: left;&quot;&gt;&lt;strong data-start=&quot;115&quot; data-end=&quot;158&quot;&gt;Warum wir Ihre Rechnungsdaten benötigen&lt;/strong&gt;&lt;/p&gt;&lt;p data-start=&quot;160&quot; data-end=&quot;367&quot; style=&quot;text-align: left;&quot;&gt;Aus Sicherheitsgründen verzichten wir bewusst darauf, dass Sie unsere Bitcoin-Wallet-Adresse in Ihrem Exchange-Account hinterlegen. Ihre Assets verbleiben jederzeit vollständig unter Ihrer eigenen Kontrolle.&lt;/p&gt;&lt;p data-start=&quot;369&quot; data-end=&quot;457&quot; style=&quot;text-align: left;&quot;&gt;Die Abrechnung der Bot-Gebühren erfolgt daher &lt;strong data-start=&quot;415&quot; data-end=&quot;456&quot;&gt;ausschließlich monatlich per Rechnung&lt;/strong&gt;.&lt;/p&gt;&lt;p data-start=&quot;459&quot; data-end=&quot;673&quot; style=&quot;text-align: left;&quot;&gt;Als &lt;strong data-start=&quot;463&quot; data-end=&quot;495&quot;&gt;GmbH mit Sitz in Deutschland&lt;/strong&gt; sind wir gesetzlich verpflichtet, Rechnungen gemäß den geltenden &lt;strong data-start=&quot;561&quot; data-end=&quot;604&quot;&gt;steuer- und handelsrechtlichen Vorgaben&lt;/strong&gt; auszustellen. Dafür benötigen wir Ihre vollständigen Rechnungsdaten.&lt;/p&gt;&lt;p data-start=&quot;675&quot; data-end=&quot;778&quot; style=&quot;text-align: left;&quot;&gt;Ihre Daten werden &lt;strong data-start=&quot;693&quot; data-end=&quot;733&quot;&gt;ausschließlich zu Abrechnungszwecken&lt;/strong&gt; verwendet und nicht an Dritte weitergegeben.&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;[Privatperson] [Unternehmen]&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="320" width="480" x="1040" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;(Vorname) (Nachname)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;(Straße &amp;amp; Hausnummer) (PLZ) (Ort)&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;(E-Mail-Adresse)&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="1000" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;(Unternehmensname)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;(Straße &amp;amp; Hausnummer) (PLZ) (Ort)&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;(E-Mail-Adresse)&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="1320" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-15" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Unternehmen]" vertex="1">
+          <mxGeometry x="1355.7142857142858" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-16" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Privatperson]" vertex="1">
+          <mxGeometry x="1198.5714285714284" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-17" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-20" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1280" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-18" connectable="0" parent="OnEPUlthsPGztGybEdLp-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Daten übernehmen]" vertex="1">
+          <mxGeometry relative="1" x="-0.25" y="1" as="geometry">
+            <mxPoint x="-1" y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Alle Daten Nochmal anzeigen zum prüfen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b&gt;[Daten aktualisieren] [Daten übernehmen]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="320" x="1120" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Börsenwahl&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b&gt;[Kraken] [Coinbase] [Binance] [Bybit] [Bitget] [MEXC]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="320" x="1120" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-21" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-13" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="760" />
+              <mxPoint x="1280" y="760" />
+            </Array>
+            <mxPoint x="1320" y="770" as="sourcePoint" />
+            <mxPoint x="1370" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-22" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-14" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="760" />
+              <mxPoint x="1280" y="760" />
+            </Array>
+            <mxPoint x="1320" y="770" as="sourcePoint" />
+            <mxPoint x="1370" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="960" />
+              <mxPoint x="960" y="960" />
+              <mxPoint x="960" y="600" />
+              <mxPoint x="1080" y="600" />
+            </Array>
+            <mxPoint x="1280" y="920" as="sourcePoint" />
+            <mxPoint x="1120" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-24" connectable="0" parent="OnEPUlthsPGztGybEdLp-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Daten aktualisieren (Privat)]" vertex="1">
+          <mxGeometry relative="1" x="-0.5478" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-25" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-19" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="960" />
+              <mxPoint x="1600" y="960" />
+              <mxPoint x="1600" y="600" />
+              <mxPoint x="1480" y="600" />
+            </Array>
+            <mxPoint x="1240" y="840" as="sourcePoint" />
+            <mxPoint x="1440" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-26" connectable="0" parent="OnEPUlthsPGztGybEdLp-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Daten aktualisieren (Unternehmen)]" vertex="1">
+          <mxGeometry relative="1" x="-0.5717" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-27" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-12" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-13" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="600" />
+              <mxPoint x="1120" y="600" />
+            </Array>
+            <mxPoint x="1280" y="610" as="sourcePoint" />
+            <mxPoint x="1330" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-28" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="600" />
+            </Array>
+            <mxPoint x="1280" y="600" as="sourcePoint" />
+            <mxPoint x="1330" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-43" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-46" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1158.2352941176468" y="1265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Eingaben&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;(Api-Key)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;(Api-Sec)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 255), rgb(51, 51, 255));&quot;&gt;&lt;b style=&quot;&quot;&gt;[Erklärvideo nochmal anschauen] [Weiter]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="1119.9952941176468" y="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-45" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Wie hoch soll der tägliche Kaufbetrag sein?&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;Erklärung Kaufbetrag mit Fear &amp;amp; Greed, etc.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="240" x="1159.9952941176468" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Verbindung mit Exchange erfolgreich" vertex="1">
+          <mxGeometry height="80" width="160" x="1199.9952941176468" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Verbindung mit Exchange&lt;div&gt;NICHT&lt;/div&gt;&lt;div&gt;erfolgreich. Eingaben prüfen&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1399.9952941176468" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-48" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-44" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-47" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="1280" />
+              <mxPoint x="1480" y="1280" />
+            </Array>
+            <mxPoint x="1278.2352941176468" y="1205" as="sourcePoint" />
+            <mxPoint x="1308.2352941176468" y="1235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-49" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-47" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1598.2352941176468" y="1360" />
+              <mxPoint x="1598.2352941176468" y="1080" />
+              <mxPoint x="1348.2352941176468" y="1080" />
+            </Array>
+            <mxPoint x="1258.2352941176468" y="1285" as="sourcePoint" />
+            <mxPoint x="1278.2352941176468" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-51" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="[Weiter]" vertex="1">
+          <mxGeometry x="1278.2352941176468" y="1259.3529411764703" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-52" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-46" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-45" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1198.2352941176468" y="1365" as="sourcePoint" />
+            <mxPoint x="1248.2352941176468" y="1315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-53" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-20" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-44" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1410" y="1080" as="sourcePoint" />
+            <mxPoint x="1460" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-55" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Kaufbetrag in EUR&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;Bei Eingabe zu beachten&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;(Eingabe Kaufbetrag)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="1160" y="1560" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-56" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-55" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="1680" />
+              <mxPoint x="1440" y="1680" />
+              <mxPoint x="1440" y="1520" />
+              <mxPoint x="1320" y="1520" />
+            </Array>
+            <mxPoint x="1320" y="1660" as="sourcePoint" />
+            <mxPoint x="1280" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-57" connectable="0" parent="OnEPUlthsPGztGybEdLp-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Falsche&lt;br&gt;Eingabe" vertex="1">
+          <mxGeometry relative="1" x="0.05" y="1" as="geometry">
+            <mxPoint x="-79" y="73" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-58" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-45" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-55" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1260" y="1540" as="sourcePoint" />
+            <mxPoint x="1310" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Auf wie viele Wallets sollen die Bitcoins verteilt werden?&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Eingabe)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1200" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Sie können die prozentuale Verteilung der Wallets bestimmen&lt;/div&gt;&lt;div&gt;[gleichmäßig verteilen] [prozentuale Verteilung eingeben]&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="320" x="1120" y="2080" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="1 / Menge der Wallets" vertex="1">
+          <mxGeometry height="40" width="160" x="1080" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Name der 1. Wallet&lt;div&gt;(Eingabe)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="1200" y="1840" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Name der 2. Wallet&lt;div&gt;(Eingabe)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="1200" y="1920" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="usw.&lt;div&gt;(Eingabe)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="1200" y="2000" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;&lt;i&gt;Name der 1.Wallet anzeigen&lt;/i&gt;&lt;/u&gt;&lt;div&gt;Wieviel Prozent der Gesamtmengenge sollen an diese Wallet überwiesen werden?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="1320" y="2240" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;u&gt;&lt;i&gt;Name der 2.Wallet anzeigen&lt;/i&gt;&lt;/u&gt;&lt;div&gt;Wieviel Prozent der Gesamtmengenge sollen an diese Wallet überwiesen werden?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="1340" y="2360" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-67" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;i&gt;&lt;u&gt;usw.&lt;/u&gt;&lt;/i&gt;" vertex="1">
+          <mxGeometry height="40" width="120" x="1380" y="2480" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-68" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="Ab welchem Betrag auf der Börse sollen die Bitcoins an die Wallet transferiert werden?&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 128, 0));&quot;&gt;Kurze Erklärung mit Beispiel z.B. alle 30 Tage&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 255, 255));&quot;&gt;&lt;b&gt;(Eingabe)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="1158.24" y="2600" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-69" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" value="&lt;div&gt;Ende der Einrichtung&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="1238.24" y="2760" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;b&gt;Letzter Kauf:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Fear &amp;amp; Greed Index: 25&lt;b&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Multiplikator: 2&lt;/div&gt;&lt;div&gt;Kaufpreis BTC: 80505,70 €&lt;/div&gt;&lt;div&gt;Kaufmenge: 150 € / 0,0018631 BTC (186321.0 Sats)&lt;/div&gt;&lt;div&gt;Exchange-Gebühr: 0,525 €&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Bestand Börse:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;BTC-Bestand gesamt&lt;/div&gt;&lt;div&gt;Euro-Bestand gesamt&lt;br&gt;BTC-Bestand durch Bot in BTC und EUR&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Aktueller Fear &amp;amp; Greed Index&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Performance&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Die letzten 30 Tage in %&lt;/div&gt;&lt;div&gt;Das letzte Jahr&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;in %&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Gesamt&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;in %&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;[Kaufhistorie anzeigen] [Transaktionshistorie anzeigen]&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;Änderungen&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;[Private Daten ändern] [Api-Keys ändern] [Kaufbetrag ändern] [Wallet ändern] [Wallet-Betrag ändern] [Börse ändern]&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;Sonstiges&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;b&gt;[Transaktion an Wallet] (Menübaum erstellen)&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;Erkärvideos&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;b&gt;[Vorstellung] [Funktion] [Sicherheit] [Wallet]&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 0, 0));&quot;&gt;[AKTUALISIEREN]&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="560" width="480" x="1040" y="2880" as="geometry" />
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-72" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-59" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1280" y="1680" as="sourcePoint" />
+            <mxPoint x="1410" y="1780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-73" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-59" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-62" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1410" y="1840" as="sourcePoint" />
+            <mxPoint x="1410" y="1880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-74" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-62" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-63" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1450" y="1830" as="sourcePoint" />
+            <mxPoint x="1450" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-75" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-63" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-64" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1440" y="1970" as="sourcePoint" />
+            <mxPoint x="1440" y="2010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-76" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-64" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-60" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1440" y="1960" as="sourcePoint" />
+            <mxPoint x="1440" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-77" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-60" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-61" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="2200" />
+              <mxPoint x="1160" y="2200" />
+            </Array>
+            <mxPoint x="1470" y="2190" as="sourcePoint" />
+            <mxPoint x="1150" y="2210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-78" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-65" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="2200" />
+            </Array>
+            <mxPoint x="1280" y="2200" as="sourcePoint" />
+            <mxPoint x="1500" y="2210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-79" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-65" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-66" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1650" y="2390" as="sourcePoint" />
+            <mxPoint x="1650" y="2430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-80" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-66" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-67" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1660" y="2360" as="sourcePoint" />
+            <mxPoint x="1660" y="2400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-85" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-67" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-68" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1440" y="2560" />
+              <mxPoint x="1278" y="2560" />
+            </Array>
+            <mxPoint x="1230" y="2480" as="sourcePoint" />
+            <mxPoint x="1230" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-86" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="OnEPUlthsPGztGybEdLp-61" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="2560" />
+            </Array>
+            <mxPoint x="1280" y="2560" as="sourcePoint" />
+            <mxPoint x="1300" y="2450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-87" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-68" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-69" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1490" y="2830" as="sourcePoint" />
+            <mxPoint x="1490" y="2870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-88" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-11" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1810" y="100" as="sourcePoint" />
+            <mxPoint x="1810" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OnEPUlthsPGztGybEdLp-89" edge="1" parent="1" source="OnEPUlthsPGztGybEdLp-9" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="OnEPUlthsPGztGybEdLp-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1670" y="-400" as="sourcePoint" />
+            <mxPoint x="1670" y="-360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
